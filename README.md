@@ -1,5 +1,5 @@
 # Config
-Standard configurations of the various services.
+Standard configurations of the various services from ![](https://raw.githubusercontent.com/fruithost/Documentation/main/Images/LOGO_TEXT.png) **fruithost**.
 
 **Running a server has never been so easy!**
 
